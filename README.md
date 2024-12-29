@@ -1,5 +1,5 @@
 # CODTECT-Task2
-**Name:** V Tharun <br>
+**Name:** V THARUN <br>
 **company:** CODTECH IT SOLUTIONS<br>
 **ID:** CT08ENC <br>
 **Domain:** Full stack Web Development<br>

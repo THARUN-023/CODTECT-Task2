@@ -1,4 +1,4 @@
-# CODTECT-Task2
+# Blog-Management-System
 **Name:** V THARUN <br>
 **Domain:** Full stack Web Development<br>
 ## Overview of the project

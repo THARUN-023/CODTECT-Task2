@@ -1,9 +1,6 @@
 # CODTECT-Task2
 **Name:** V THARUN <br>
-**company:** CODTECH IT SOLUTIONS<br>
-**ID:** CT08ENC <br>
 **Domain:** Full stack Web Development<br>
-**Duration:** Dec 17th 2024 to Jan 17th 2025<br>
 ## Overview of the project
 ## PROJECT: SIMPLE BLOG APPLICATION
 ## Objective: 
